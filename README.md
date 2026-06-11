@@ -6,7 +6,7 @@ Dashboard interaktif berbasis **Power BI** untuk menganalisis data Indian Premie
 
 > Tambahkan screenshot dashboard pada folder `screenshots/`, lalu ubah nama file di bawah ini sesuai screenshot yang digunakan.
 
-![Dashboard Preview](screenshots/dashboard-preview.png)
+![Dashboard Preview](screenshots/Screenshot.png)
 
 ## Tujuan Project
 
