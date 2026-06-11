@@ -4,8 +4,6 @@ Dashboard interaktif berbasis **Power BI** untuk menganalisis data Indian Premie
 
 ## Preview Dashboard
 
-> Tambahkan screenshot dashboard pada folder `screenshots/`, lalu ubah nama file di bawah ini sesuai screenshot yang digunakan.
-
 ![Dashboard Preview](screenshots/Screenshot.png)
 
 ## Tujuan Project
@@ -139,9 +137,6 @@ powerbi/IPL_Analysis_Dashboard.pbix
 
 3. Gunakan slicer/filter musim IPL untuk melihat analisis berdasarkan season.
 
-## Catatan Portofolio
-
-File `.pbix` dapat menyimpan data di dalamnya. Sebelum repository dibuat public, pastikan data yang digunakan aman untuk dibagikan. Jika data tidak boleh dibagikan, cukup upload screenshot dashboard dan README, lalu jangan upload file `.pbix` atau dataset asli.
 
 ## Author
 
